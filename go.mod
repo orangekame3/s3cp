@@ -1,4 +1,4 @@
-module github.com/orangekame3/cobra-template
+module github.com/orangekame3/s3cp
 
 go 1.21.0
 
